@@ -1,0 +1,123 @@
+.body1{
+    background-image: url('/assets/img/gras2.jpg');
+    background-repeat: no-repeat;
+    
+    font-size: 16px;
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+}
+header{
+    background-color: white;
+    height: 100px;
+    margin-top: 1%;
+    width: 100%;
+}
+img{
+    width: 90px;
+    height: 90px;
+    margin-left: 45%;
+    margin-top: 0.5%;
+}
+.search{
+    margin-left: 70%;
+    margin-top: -5%;
+    height: 90px;
+    border-radius: 50px;
+}
+.fa-search{
+    font-size: 20px;
+}
+.logo1{
+    margin-top: -8%;
+    margin-left: -20%;
+}
+.logo2{
+    margin-top: -1%;
+    margin-left: 40%;
+}
+.fa-facebook{
+    margin-top:-10% ;
+}
+.fad{
+    font-size: 40px;
+    margin-top:-15% ;
+    margin-left: -20%;
+}
+.links{
+    background-color: green;
+    height: 60px;
+    margin-top: -10%;
+}
+.home{
+    color:yellow ;
+    
+}
+.links5{
+    color: black;
+}
+.alllink{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+h4{
+    margin-top: 30%;
+    color: yellow;
+    margin-left: 20%;
+}
+h1{
+    margin-left:20% ;
+    color: white;
+    font-size: 50px;
+}
+.h4-2{
+    margin-top: -1%;
+}
+button{
+    margin-left: -50%;
+    background-color: green;
+}
+footer{
+    margin-top: 3%;
+}
+#foot{
+    margin-left: 12%;
+    
+}
+
+.div2{
+    width: 120px;
+    height: 260px;
+    background-color: rgb(161, 161, 250);
+    text-align: center;
+    display: inline-block;
+    margin-left: 50px;
+
+}
+.p1{
+    margin-left: 15%;
+    margin-top: 1%;
+}
+.fas{
+    /* font-size: 36px; */
+}
+.div5{
+    width: 310px;
+    height: 260px;
+    background-color: rgb(161, 161, 250);
+    text-align: center;
+    
+    margin-left: 600px;
+    margin-top: -280px;
+}
+.h5{
+    margin-left: 70%;
+    margin-top: -22%;
+}
+.p5{
+    margin-left: 70%;
+}
+.btn-success{
+    margin-left: 78%;
+    margin-top: -10%;
+}
